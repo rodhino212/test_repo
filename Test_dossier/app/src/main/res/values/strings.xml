@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MesComptes</string>
+    <string name="name_text">Entrez votre nom</string>
+    <string name="prenom_text">Entrez votre prénom</string>
+    
+    <string-array name="type">
+        <item>revenu</item>
+        <item>depense</item>
+    </string-array>
+    
+    <string-array name="pointee">
+        <item>oui</item>
+        <item>non</item>
+    </string-array>
+
+    <string-array name="frequence">
+        <item>hebdomadaire</item>
+        <item>mensuelle</item>
+        <item>annuelle</item>
+        <item>aucune</item>
+    </string-array>
+
+</resources>
